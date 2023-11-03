@@ -12,7 +12,7 @@
 ![image](https://github.com/Yueem/T6/assets/116643627/addc1476-806a-47c8-a788-d4f19c14e76c)  
 # :bangbang:瀏覽器推薦(可做可不做)  
 將瀏覽器右上角![image](https://github.com/Yueem/T6/assets/116643627/2c6782d4-8854-42a0-bcbd-caa5627119ad)
-`选项>基本设置`將打开页面更換成`http://zhaijidi.com/`(2023年11月3日，官方公共此網址維護中無法打開，將網址更換為`http://a1.zhaijidi.com/`)  
+`选项>基本设置`將打开页面更換成`http://zhaijidi.com/`(官方公告此網址維護中有些用戶無法打開，若無法打開，將網址更換為`http://a1.zhaijidi.com/`)  
 ![image](https://github.com/Yueem/T6/assets/116643627/51b8ab94-2400-4e6d-9671-0f8a64a1a665)
 並將默認瀏覽器關閉  
 ![image](https://github.com/Yueem/T6/assets/116643627/3b1ab840-7310-470a-a425-4a3814ea36e6)  
@@ -21,4 +21,5 @@
 
 # Flash插件  
 ppflash內含`pepflashplayer32_29_0_0_171.dll`  
-# 遊戲的完整遊戲IP  
+# 遊戲的完整IP  
+![image](https://github.com/Yueem/T6/assets/116643627/066c12e9-9b50-4253-af68-4716906ce513)  
