@@ -1,0 +1,32 @@
+[电信]
+121.9.243.212 fms.a1.this6.com
+121.9.243.212 a1.this6.com
+121.9.243.212 a.this6.com
+121.9.243.212 a.center.this6.com
+121.9.243.212 s.a1.this6.com
+121.9.243.212www.this6.com
+121.9.243.216 zhaijidi.com
+121.9.243.216 www.zhaijidi.com
+121.9.243.21 m.this6.com
+121.9.243.216 a1.zhaijidi.com
+[聯通]
+163.177.178.196 fms.a1.this6.com
+163.177.178.196 a1.this6.com
+163.177178.196 a.this6.com
+163.177.178.196 a.center.this6.com
+163.177.178.196 s.a1.this6.com
+163.177.178.196 www.this6.com
+163.177.178.200 zhaijidi.com
+163.177.178.200 www.zhaijidi.com
+163.177.178.200 m.this6.com
+163.177.178.200 a1.zhaijidi.com
+[移動]
+183.232.9.206 fms.a1.this6.com183.232.9.206 a1this6.com
+183.232.9.206 a.this6.com
+183.232.9.206 a.center.this6.com
+183.232.9.206 s.a1.this6.com
+183.232.9.206 www.this6.com
+183.232.9.205zhaijidi.com
+183.232.9.205 www.zhaijidi.com
+183.232.9.205 m.this6.com
+183.232.9.205 a1.zhaijidi.com
