@@ -37,4 +37,6 @@ notepad hosts
 ```
 選一組IP貼上並保存  
 刷新  
-```ipconfig /flushdns```  
+```
+ipconfig /flushdns  
+```  
