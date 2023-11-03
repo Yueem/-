@@ -11,5 +11,5 @@
 安裝完成在`360Chrome\Chrome\Application\components`下添加 ppflash  
 ![image](https://github.com/Yueem/T6/assets/116643627/addc1476-806a-47c8-a788-d4f19c14e76c)  
 # Flash插件  
-ppflash內含pepflashplayer32_29_0_0_171.dll  
+ppflash內含`pepflashplayer32_29_0_0_171.dll`  
 # 遊戲的完整遊戲IP  
