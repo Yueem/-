@@ -20,11 +20,20 @@
 # Flash插件  
 :open_file_folder:ppflash內含:electric_plug:`pepflashplayer32_29_0_0_171.dll`  
 # 遊戲的完整IP  
-![image](https://github.com/Yueem/T6/assets/116643627/ce3bd632-c3b0-4c0b-9326-e6faa075c8e5)
+![image](https://github.com/Yueem/T6/assets/116643627/ce3bd632-c3b0-4c0b-9326-e6faa075c8e5)  
 官方共提供3種不同的連線的IP  
 可在`cmd`中ping看看3種IP，選一個使用時間最短即可。
 ```
 ping -n 5 121.9.243.212
 ping -n 5 163.177.178.196  
 ping -n 5 183.232.9.206  
+```  
+`以系統管理員身份執行`打開cmd，`WIN+R`打cmd，按`Ctrl +Shift+ENTER`  
+切換路徑並打開hosts  
 ```
+cd C:\Windows\System32\drivers\etc
+notepad hosts  
+```
+選一組IP貼上並保存  
+刷新  
+`ipconfig /flushdns`  
