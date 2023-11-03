@@ -11,7 +11,8 @@
 ![image](https://github.com/Yueem/T6/assets/116643627/addc1476-806a-47c8-a788-d4f19c14e76c)  
 # :bangbang:瀏覽器推薦(可做可不做)  
 將瀏覽器右上角![image](https://github.com/Yueem/T6/assets/116643627/2c6782d4-8854-42a0-bcbd-caa5627119ad)
-`选项>基本设置`將打开页面更換成`http://zhaijidi.com/`(官方公告此網址維護中有些用戶無法打開，若無法打開，將網址更換為`http://a1.zhaijidi.com/`)  
+`选项>基本设置`將打开页面更換成```http://zhaijidi.com/```  
+(官方公告此網址維護中有些用戶無法打開，若無法打開，將網址更換為```http://a1.zhaijidi.com/```)  
 ![image](https://github.com/Yueem/T6/assets/116643627/51b8ab94-2400-4e6d-9671-0f8a64a1a665)
 並將默認瀏覽器關閉  
 ![image](https://github.com/Yueem/T6/assets/116643627/3b1ab840-7310-470a-a425-4a3814ea36e6)  
@@ -36,4 +37,4 @@ notepad hosts
 ```
 選一組IP貼上並保存  
 刷新  
-`ipconfig /flushdns`  
+```ipconfig /flushdns```  
