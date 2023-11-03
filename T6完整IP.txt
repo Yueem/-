@@ -1,4 +1,4 @@
-[电信]
+[電信]
 121.9.243.212 fms.a1.this6.com
 121.9.243.212 a1.this6.com
 121.9.243.212 a.this6.com
@@ -21,7 +21,8 @@
 163.177.178.200 m.this6.com
 163.177.178.200 a1.zhaijidi.com
 [移動]
-183.232.9.206 fms.a1.this6.com183.232.9.206 a1this6.com
+183.232.9.206 fms.a1.this6.com
+183.232.9.206 a1this6.com
 183.232.9.206 a.this6.com
 183.232.9.206 a.center.this6.com
 183.232.9.206 s.a1.this6.com
