@@ -10,6 +10,15 @@
 ![image](https://github.com/Yueem/-/assets/116643627/85a55fc2-7e5e-40f1-ae40-2bdb5c502e71)  
 安裝完成在`360Chrome\Chrome\Application\components`下添加 ppflash  
 ![image](https://github.com/Yueem/T6/assets/116643627/addc1476-806a-47c8-a788-d4f19c14e76c)  
+:bangbang:推薦(可做可不做)  
+將瀏覽器![image](https://github.com/Yueem/T6/assets/116643627/2c6782d4-8854-42a0-bcbd-caa5627119ad)
+`选项>基本设置`將打开页面更換成`http://a1.zhaijidi.com/`  
+![image](https://github.com/Yueem/T6/assets/116643627/51b8ab94-2400-4e6d-9671-0f8a64a1a665)
+並將默認瀏覽器關閉  
+![image](https://github.com/Yueem/T6/assets/116643627/3b1ab840-7310-470a-a425-4a3814ea36e6)  
+在`界面設置`中取消勾選，如下圖  
+![image](https://github.com/Yueem/T6/assets/116643627/e6a6a1b5-42d2-4b68-a9d4-ae000b940219)  
+
 # Flash插件  
 ppflash內含`pepflashplayer32_29_0_0_171.dll`  
 # 遊戲的完整遊戲IP  
