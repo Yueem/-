@@ -29,7 +29,7 @@ ping -n 5 121.9.243.212
 ping -n 5 163.177.178.196  
 ping -n 5 183.232.9.206  
 ```  
-`以系統管理員身份執行`打開cmd，`WIN+R`打cmd，按`Ctrl +Shift+ENTER`  
+`以系統管理員身份執行`打開cmd，`WIN+R`打`cmd`，按`Ctrl +Shift+ENTER`  
 切換路徑並打開hosts  
 ```
 cd C:\Windows\System32\drivers\etc
