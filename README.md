@@ -7,7 +7,7 @@
 [下載鏈接](https://down.360safe.com/cse/360cse_13.0.2290.0.exe)  
 ![image](https://github.com/Yueem/-/assets/116643627/4b94be47-a7af-40d1-8d1f-742aee350a0c)  
 ![image](https://github.com/Yueem/-/assets/116643627/85a55fc2-7e5e-40f1-ae40-2bdb5c502e71)  
-安裝完成在`360Chrome\Chrome\Application\components`下添加:open_file_folder:ppflash  
+安裝完成在`360Chrome\Chrome\Application\components`下添加 :open_file_folder: ppflash  
 ![image](https://github.com/Yueem/T6/assets/116643627/addc1476-806a-47c8-a788-d4f19c14e76c)  
 # :bangbang:瀏覽器推薦(可做可不做)  
 將瀏覽器右上角![image](https://github.com/Yueem/T6/assets/116643627/2c6782d4-8854-42a0-bcbd-caa5627119ad)
