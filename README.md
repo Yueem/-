@@ -80,6 +80,8 @@ cd C:\Windows\System32\drivers\etc
 notepad hosts  
 ```
 選一組IP貼上並保存  
+![image](https://github.com/Yueem/T6/assets/116643627/3563c7ce-61ee-4c93-86fc-8c790ee96460)  
+
 刷新  
 ```
 ipconfig /flushdns  
