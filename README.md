@@ -27,7 +27,42 @@
 # 更改遊戲IP  
 如果遊戲運行不順暢可以更改連線IP來改善遊戲卡頓的問題  
 方法如下  
-![image](https://github.com/Yueem/T6/assets/116643627/ce3bd632-c3b0-4c0b-9326-e6faa075c8e5)  
+```
+121.9.243.212 fms.a1.this6.com
+121.9.243.212 a1.this6.com
+121.9.243.212 a.this6.com
+121.9.243.212 a.center.this6.com
+121.9.243.212 s.a1.this6.com
+121.9.243.212www.this6.com
+121.9.243.216 zhaijidi.com
+121.9.243.216 www.zhaijidi.com
+121.9.243.21 m.this6.com
+121.9.243.216 a1.zhaijidi.com
+```  
+```
+163.177.178.196 fms.a1.this6.com
+163.177.178.196 a1.this6.com
+163.177178.196 a.this6.com
+163.177.178.196 a.center.this6.com
+163.177.178.196 s.a1.this6.com
+163.177.178.196 www.this6.com
+163.177.178.200 zhaijidi.com
+163.177.178.200 www.zhaijidi.com
+163.177.178.200 m.this6.com
+163.177.178.200 a1.zhaijidi.com
+```
+```
+183.232.9.206 fms.a1.this6.com
+183.232.9.206 a1this6.com
+183.232.9.206 a.this6.com
+183.232.9.206 a.center.this6.com
+183.232.9.206 s.a1.this6.com
+183.232.9.206 www.this6.com
+183.232.9.205zhaijidi.com
+183.232.9.205 www.zhaijidi.com
+183.232.9.205 m.this6.com
+183.232.9.205 a1.zhaijidi.com
+```   
 官方共提供3種不同的連線的IP  
 可在`cmd`中ping看看3種IP，選一組連線時間最短。
 ```
