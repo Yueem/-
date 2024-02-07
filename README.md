@@ -9,6 +9,10 @@
 ![image](https://github.com/Yueem/-/assets/116643627/85a55fc2-7e5e-40f1-ae40-2bdb5c502e71)  
 安裝完成在`360Chrome\Chrome\Application\components`下添加 :open_file_folder: ppflash  
 ![image](https://github.com/Yueem/T6/assets/116643627/addc1476-806a-47c8-a788-d4f19c14e76c)  
+重開瀏覽器即可進入了哦~  
+
+
+  
 # :bangbang:瀏覽器推薦(可做可不做)  
 將瀏覽器右上角![image](https://github.com/Yueem/T6/assets/116643627/2c6782d4-8854-42a0-bcbd-caa5627119ad)
 `选项>基本设置`將打开页面更換成```http://zhaijidi.com/```  
