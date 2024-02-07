@@ -25,9 +25,11 @@
 # Flash插件  
 :open_file_folder:ppflash內含:electric_plug:`pepflashplayer32_29_0_0_171.dll`  
 # 更改遊戲IP  
+如果遊戲運行不順暢可以更改連線IP來改善遊戲卡頓的問題  
+方法如下  
 ![image](https://github.com/Yueem/T6/assets/116643627/ce3bd632-c3b0-4c0b-9326-e6faa075c8e5)  
 官方共提供3種不同的連線的IP  
-可在`cmd`中ping看看3種IP，選一個使用時間最短即可。
+可在`cmd`中ping看看3種IP，選一組連線時間最短。
 ```
 ping -n 5 121.9.243.212
 ping -n 5 163.177.178.196  
