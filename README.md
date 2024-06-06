@@ -4,9 +4,9 @@
 :exclamation:因遊戲開發較早，使用了已被移除的flash插件。導致海外玩家都無法下載與更新flash版本。  
 :file_folder:本儲存庫提供**flash插件**，與推薦的**遊戲環境**，以及在遊玩過程中可能造成的**遊戲卡頓**問題。  
 # :mag:瀏覽器  
-使用瀏覽器為360極速瀏覽器-13.0.2290.0  
+使用瀏覽器為360極速瀏覽器-360cse_13.5.2036.0  
 [下載鏈接](https://down.360safe.com/cse/360cse_13.5.2036.0.exe)  
-![image](https://github.com/Yueem/-/assets/116643627/4b94be47-a7af-40d1-8d1f-742aee350a0c)  
+![image](https://github.com/Yueem/T6/assets/116643627/c213ae2b-5131-4a50-85a4-871c4dc5dfb9)  
 ![image](https://github.com/Yueem/-/assets/116643627/85a55fc2-7e5e-40f1-ae40-2bdb5c502e71)  
 安裝完成在`360Chrome\Chrome\Application\components`下添加 :open_file_folder: ppflash  
 ![image](https://github.com/Yueem/T6/assets/116643627/addc1476-806a-47c8-a788-d4f19c14e76c)  
