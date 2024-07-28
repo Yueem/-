@@ -58,7 +58,7 @@
 移動  
 ```
 183.232.9.206 fms.a1.this6.com
-183.232.9.206 a1this6.com
+183.232.9.206 a1.this6.com
 183.232.9.206 a.this6.com
 183.232.9.206 a.center.this6.com
 183.232.9.206 s.a1.this6.com
