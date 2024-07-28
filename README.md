@@ -63,7 +63,7 @@
 183.232.9.206 a.center.this6.com
 183.232.9.206 s.a1.this6.com
 183.232.9.206 www.this6.com
-183.232.9.205zhaijidi.com
+183.232.9.205 zhaijidi.com
 183.232.9.205 www.zhaijidi.com
 183.232.9.205 m.this6.com
 183.232.9.205 a1.zhaijidi.com
