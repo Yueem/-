@@ -36,7 +36,7 @@
 121.9.243.212 a.this6.com
 121.9.243.212 a.center.this6.com
 121.9.243.212 s.a1.this6.com
-121.9.243.212www.this6.com
+121.9.243.212 www.this6.com
 121.9.243.216 zhaijidi.com
 121.9.243.216 www.zhaijidi.com
 121.9.243.21 m.this6.com
