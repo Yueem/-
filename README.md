@@ -8,7 +8,7 @@
 [下載鏈接](https://down.360safe.com/cse/360cse_13.5.2036.0.exe)  
 ![image](https://github.com/Yueem/T6/assets/116643627/c213ae2b-5131-4a50-85a4-871c4dc5dfb9)  
 ![image](https://github.com/Yueem/-/assets/116643627/85a55fc2-7e5e-40f1-ae40-2bdb5c502e71)  
-安裝完成在`360Chrome\Chrome\Application\components`下添加 :open_file_folder: ppflash  
+安裝完成  在`360Chrome\Chrome\Application\components`下添加 :open_file_folder: ppflash  
 ![image](https://github.com/Yueem/T6/assets/116643627/addc1476-806a-47c8-a788-d4f19c14e76c)  
 重開瀏覽器即可進入了哦~  
 
@@ -46,7 +46,7 @@
 ```
 163.177.178.196 fms.a1.this6.com
 163.177.178.196 a1.this6.com
-163.177178.196 a.this6.com
+163.177.178.196 a.this6.com
 163.177.178.196 a.center.this6.com
 163.177.178.196 s.a1.this6.com
 163.177.178.196 www.this6.com
